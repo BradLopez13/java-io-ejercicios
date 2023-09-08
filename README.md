@@ -1,2 +1,2 @@
 # Manejo_Ficheros
-Estos codigos permiten crear, modificar y navegar por ficheros 
+Estos codigos java permiten crear, modificar y navegar por ficheros 
