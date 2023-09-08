@@ -1,0 +1,4 @@
+0#nombre:ana#edad:21
+1#nombre:luis#edad:16
+2#altura:1.78#peso:45
+3#altura:1.87#peso:98
