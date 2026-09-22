@@ -1,0 +1,10 @@
+# Compiled output
+bin/
+*.class
+
+# Dependencies (download them, do not commit them)
+*.jar
+
+# IDE
+.metadata/
+.settings/
